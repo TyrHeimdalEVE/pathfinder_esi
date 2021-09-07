@@ -1,5 +1,5 @@
 {
-  "name": "exodus4d/pathfinder_esi",
+  "name": "tyrheimdaleve/pathfinder_esi",
   "description": "ESI API library for Pathfinder",
   "type": "library",
   "homepage": "https://github.com/exodus4d/pathfinder_esi",
@@ -18,7 +18,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/exodus4d/pathfinder_esi"
+      "url": "https://github.com/TyrHeimdalEVE/pathfinder_esi"
     }
   ],
   "autoload": {
