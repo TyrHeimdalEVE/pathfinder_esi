@@ -19,7 +19,7 @@ Use [_Composer_](https://getcomposer.org/) for installation. In `composer.json` 
 {
   "require": {
     "php-64bit": ">=7.2",
-    "goryn-clade/pathfinder_esi": "v2.1.2"
+    "goryn-clade/pathfinder_esi": "v2.3.0"
   }
 }
 ```
